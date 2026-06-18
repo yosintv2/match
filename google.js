@@ -194,7 +194,7 @@ document.addEventListener('DOMContentLoaded', function () {
   // Top banner ad
   googleAdsManager.addAd('ad-top-banner', {
     slotId: '4345862479',
-    format: 'horizontal',
+    format: 'auto',
     responsive: true
   });
 
