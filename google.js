@@ -201,7 +201,7 @@ document.addEventListener('DOMContentLoaded', function () {
   // Middle banner ad
   googleAdsManager.addAd('ad-middle-banner', {
     slotId: '4345862479',
-    format: 'horizontal',
+    format: 'auto',
     responsive: true
   });
 
